@@ -1,0 +1,20 @@
+Instructions: Enter the total number of normal and abnormal axons you count for each genotype. Each group should put numbers in just one row.,,,,,,,,,
+,Lab Section,juIs76,juIs76,juIs76; unc-5,juIs76; unc-5,juIs76; unc-6,juIs76; unc-6,juIs76; unc-40,juIs76; unc-40
+Lab Section,initials,Normal DD/VD,Abnormal DD/VD,Normal DD/VD,Abnormal DD/VD,Normal DD/VD,Abnormal DD/VD,Normal DD/VD,Abnormal DD/VD
+101,AA,48,2,8,42,2,48,22,28
+101,BB,47,3,8,42,0,50,22,28
+101,CC,50,0,1,49,1,49,18,32
+101,DD,17,0,0,16,2,14,5,12
+101,EE,58,4,2,54,8,40,38,14
+101,FF,36,0,0,50,6,44,40,8
+101,JJ,48,2,4,45,6,35,28,20
+101,HH,24,0,2,48,3,31,23,27
+102,II,53,0,1,48,5,36,34,15
+102,JJ,50,0,4,46,2,48,23,27
+102,KK,68,1,9,46,2,32,13,42
+102,LL,54,0,9,46,8,34,35,21
+102,MM,46,0,11,39,12,43,34,16
+102,NN,54,0,2,55,3,53,8,33
+102,OO,49,1,0,59,10,41,35,20
+102,PP,27,0,0,42,19,49,18,32
+102,QQ,55,13,7,45,8,48,39,13
