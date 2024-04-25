@@ -1,0 +1,21 @@
+id,name,gene-id,gene-symbol,gene-name,entrez-id,chromosome,plane-of-section,specimen-id,fold-change,target-sum,contrast-sum,num-target-samples,num-contrast-samples
+74003393,RP_060119_02_B01,88778,Gpr161,G protein-coupled receptor 161,240888,1,sagittal,n/a,16.080,2829.416,15265.243,320,27762
+74003403,RP_050331_02_D08,88778,Gpr161,G protein-coupled receptor 161,240888,1,sagittal,n/a,14.725,2630.611,14340.334,315,25286
+70238866,RP_050526_04_C05,71750,Dio3,"deiodinase, iodothyronine type III",107585,12,sagittal,n/a,12.606,311.267,2028.147,296,24312
+1364,RP_Baylor_103371,86272,Grp,gastrin releasing peptide,225642,18,sagittal,n/a,10.960,938.078,6998.214,317,25919
+70562045,RP_050331_02_D08,88778,Gpr161,G protein-coupled receptor 161,240888,1,coronal,n/a,10.644,3845.768,31005.322,320,27460
+1363,RP_Baylor_103371,86272,Grp,gastrin releasing peptide,225642,18,coronal,n/a,8.617,945.714,9300.524,302,25591
+74357582,RP_051012_03_E02,42404,2310042E22Rik,RIKEN cDNA 2310042E22 gene,66561,16,coronal,n/a,8.483,430.646,4236.764,313,26121
+71717188,RP_050526_04_C05,71750,Dio3,"deiodinase, iodothyronine type III",107585,12,coronal,n/a,8.041,349.997,3680.563,320,27059
+1305,RP_Baylor_103087,21823,Trpc4,"transient receptor potential cation channel, subfamily C, member 4",22066,3,coronal,n/a,7.541,2692.816,29984.627,320,26871
+71016632,RP_050725_03_B01,88569,Rspo2,R-spondin 2 homolog (Xenopus laevis),239405,15,coronal,n/a,7.112,930.369,9461.892,320,23146
+79913274,RP_071204_04_F07,86272,Grp,gastrin releasing peptide,225642,18,sagittal,n/a,7.060,1215.613,16073.155,285,26603
+224,RP_040324_01_A12,12290,Cd44,CD44 antigen,12505,2,coronal,n/a,6.719,467.322,5336.251,320,24550
+68844146,RP_050222_01_A03,108718,6030405A18Rik,RIKEN cDNA 6030405A18 gene,329641,3,sagittal,n/a,6.608,1315.871,17924.572,264,23763
+72129294,RP_051017_03_F10,86813,Tshz2,teashirt zinc finger family member 2,228911,2,coronal,n/a,6.423,320.768,4558.922,276,25197
+79904698,RP_071218_03_E07,21823,Trpc4,"transient receptor potential cation channel, subfamily C, member 4",22066,3,sagittal,n/a,6.278,2439.877,33137.250,274,23364
+67978686,RP_040923_01_E11,56093,Zxdc,ZXD family zinc finger C,80292,6,sagittal,n/a,6.241,316.416,5661.025,236,26353
+68797894,RP_050215_01_D02,106517,6430573F11Rik,RIKEN cDNA 6430573F11 gene,319582,8,sagittal,n/a,6.179,860.748,12081.941,320,27754
+2464,RP_Baylor_102944,18271,Pax3,paired box gene 3,18505,1,coronal,n/a,6.127,404.453,5376.387,320,26061
+68667366,RP_050201_02_B06,88569,Rspo2,R-spondin 2 homolog (Xenopus laevis),239405,15,sagittal,n/a,6.062,668.235,11700.461,230,24411
+329,RP_Baylor_102722,12959,Dcn,decorin,13179,10,coronal,n/a,6.004,2896.727,39588.445,320,26258
